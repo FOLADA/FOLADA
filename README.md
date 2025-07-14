@@ -2,7 +2,7 @@
 - 👀 I’m interested in changing the world
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on changing the world
-- 📫 How to reach me tefnadzeq@gmail.com | 551-00-25-80| https://www.linkedin.com/in/crusadersf/
+- 📫 How to reach me https://www.linkedin.com/in/crusadersf/
 - ⚡ Fun fact: Just explore me and you will find out
 
 <!---
