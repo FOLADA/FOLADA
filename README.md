@@ -1,4 +1,4 @@
-![Greeting](https://img.shields.io/badge/Hi%20there!-Saba%20Foladashvili-ff69b4?style=for-the-badge)
+Hi, I'm Saba Foladasvhili!
 ### Frontend & Full-Stack Developer | AI Enthusiast | Startup Builder
 
 I'm a 16-year-old tech entrepreneur and developer focused on **building world-class web experiences, AI tools, and startups**. My goal is to create impactful technology and scale innovative projects globally.
