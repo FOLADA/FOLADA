@@ -32,13 +32,6 @@ I'm a 16-year-old tech entrepreneur and developer focused on **building world-cl
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-![Saba's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabaFoladashvili&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabaFoladashvili&layout=compact&theme=radical)
-
----
-
 ## 🚀 Projects & Startups
 
 - **[Parentlytics](https://github.com/SabaFoladashvili/Parentlytics)** – AI-powered parenting insights.
@@ -50,8 +43,7 @@ I'm a 16-year-old tech entrepreneur and developer focused on **building world-cl
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabafoladashvili) 
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SabaFoladashvili)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crusadersf) 
 
 ---
 
@@ -59,7 +51,7 @@ I'm a 16-year-old tech entrepreneur and developer focused on **building world-cl
 
 - I’m **197 cm tall** and obsessed with maximizing productivity.  
 - Daily routines: **Workout → Cold shower → Coffee → Code & Build**.  
-- Passionate about **AI, startups, web dev, and philosophy**.  
+- Passionate about **AI, startups, web dev, and philosophy... And animals as well**.
 
 ---
 
